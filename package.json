@@ -1,0 +1,14 @@
+{
+    "name": "node-fastcgi",
+    "version": "bleeding-alpha",
+    "description": "FastCGI implemented in node.js",
+    "keywords": "fastcgi",
+    "author": "Robert Knutsson <zybreak@gmail.com>",
+    "main": "./lib/fastcgi",
+    "engines": { "node": ">= 0.2.0" },
+    "dependencies": {},
+    "repository" : {
+        "type" : "git",
+         "url" : "https://github.com/zybreak/node-fastcgi.git"
+    }
+}
